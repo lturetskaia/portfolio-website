@@ -21,7 +21,7 @@ html {
 
 body {
   font-family: var(--font-family-main);
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   font-weight: normal;
   color: var(--font-main);
   background-color: var(--bgr-main);
@@ -244,7 +244,6 @@ h3 {
 #about-text p {
   text-align: justify;
   text-indent: 3rem;
-  line-height: 3rem;
 }
 
 .ctrl-row {
@@ -298,7 +297,6 @@ h3 {
 
 .prj-description {
   width: 40%;
-  line-height: 3rem;
 }
 
 .prj-description ul {
